@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29159f41-f86c-4baf-b459-d8a9368b79f0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/SideBar/SideBarMenu.js" afterPath="$PROJECT_DIR$/src/components/SideBar/SideBarMenu.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -71,8 +70,8 @@
       <file leaf-file-name="SideBarMenu.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/SideBar/SideBarMenu.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="485">
-              <caret line="42" column="127" lean-forward="false" selection-start-line="42" selection-start-column="127" selection-end-line="42" selection-end-column="127" />
+            <state relative-caret-position="1415">
+              <caret line="65" column="18" lean-forward="true" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -254,12 +253,12 @@
       <updated>1509682820608</updated>
       <workItem from="1509682821981" duration="4327000" />
       <workItem from="1509694432697" duration="19000" />
-      <workItem from="1509694470453" duration="874000" />
+      <workItem from="1509694470453" duration="1709000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5220000" />
+    <option name="totallyTimeSpent" value="6055000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="158" y="49" width="1400" height="936" extended-state="0" />
@@ -482,8 +481,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/SideBar/SideBarMenu.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="42" column="127" lean-forward="false" selection-start-line="42" selection-start-column="127" selection-end-line="42" selection-end-column="127" />
+        <state relative-caret-position="1415">
+          <caret line="65" column="18" lean-forward="true" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
