@@ -10,7 +10,8 @@ const MainContent = () => {
 	};
 	return (
 		<div className="main-content" style={mainContentStyle}>
-			<h1>This is where the content will live</h1>
+			<h1>Rob Byrne</h1>
+			<h2>Software Developer. I get shit done</h2>
 		</div>
 	)
 };

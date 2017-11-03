@@ -27,7 +27,7 @@ const SideBarMenu = () => {
                             />
                         </div>
                         <div style={{float: 'right', width: '72%', color: '#41B883',}}>
-                            <h1>Rob Byrne</h1>
+                            <h1>LEANROB</h1>
                         </div>
                     </span>
 
