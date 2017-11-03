@@ -11,26 +11,38 @@ const SideBarMenu = () => {
 		bottom: 0,
 		left: 0,
 		overflowX: 'hidden',
-		overflowY: 'hidden',
+		overflowY: 'auto',
 		background: '#343131',
 		zIndex: 200,
 		display: 'block',
 		verticalAlign: 'middle',
+
 	};
 	return (
 		<div className="sidebar-menu" style={sideBarMenuStyle}>
-                    <span>
-                        <div style={{float: 'left', width: '25%',}}>
-                            <img src={logo}
-                                 className="App-logo"
-                                 alt="logo"
-                            />
-                        </div>
-                        <div style={{float: 'right', width: '72%', color: '#41B883',}}>
-                            <h1>LEANROB</h1>
-                        </div>
-                    </span>
-
+			<div className="sidebar-menu-header" style={{height: '80px', background: '#41B883'}}>
+				<div style={{float: 'left', width: '33%', paddingBottom: '20px'}}>
+					<img src={logo}
+					     className="App-logo"
+					     alt="logo"
+					/>
+				</div>
+				<div style={{float: 'right', width: '66%', color: '#000000',}}>
+					<h1>LEANROB</h1>
+				</div>
+			</div>
+			<br />
+			<div className="sidebar-menu-content">
+				<p>About Rob</p>
+				<p>Contact Information</p>
+				<p>Skill Sets</p>
+				<p>Startup Accelerator</p>
+				<p>Hack-A-Thons</p>
+				<p>Get In Touch</p>
+			</div>
+			<div className="sidebar-menu-footer" style={{position: 'fixed', bottom: '0px', background: '#41B883', width: '300px',}}>
+				<p>@leanrob</p>
+			</div>
 		</div>
 	)
 };
