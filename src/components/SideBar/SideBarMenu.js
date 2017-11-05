@@ -77,12 +77,24 @@ const SideBarMenu = () => {
 			</div>
 			<br />
 			<div className="sidebar-menu-content">
-				<p>About Rob</p>
-				<p>Contact Information</p>
-				<p>Skill Sets</p>
-				<p>Startup Accelerator</p>
-				<p>Hack-A-Thons</p>
-				<p>Get In Touch</p>
+				<p>
+					<a href="#aboutMe">About Rob</a>
+				</p>
+				<p>
+					<a href="#contactInfo">Contact Information</a>
+				</p>
+				<p>
+					<a href="#skills">Skill Sets</a>
+				</p>
+				<p>
+					<a href="#startupAccelerator">Startup Accelerator</a>
+				</p>
+				<p>
+					<a href="#hackathons">Hack-A-Thons</a>
+				</p>
+				<p>
+					<a>Get In Touch</a>
+				</p>
 			</div>
 			<div className="sidebar-menu-footer" style={style.sideBarFooter}>
 				<p>@leanrob</p>

@@ -1,4 +1,5 @@
 import React from "react"
+import PortfolioPage from '../PortfolioPage/PortfolioPage'
 
 const MainContent = () => {
 	const mainContentStyle = {
@@ -7,41 +8,11 @@ const MainContent = () => {
 		minHeight: '100%',
 		display: 'block',
 		boxSizing: 'border-box',
+		marginTop: '50px'
 	};
 	return (
 		<div className="main-content" style={mainContentStyle}>
-
-			<h1>Rob Byrne</h1>
-			<h2>Software Developer. I get shit done</h2>
-			<h1>Rob Byrne</h1>
-			<h2>Software Developer. I get shit done</h2>
-			<h1>Rob Byrne</h1>
-			<h2>Software Developer. I get shit done</h2>
-			<h1>Rob Byrne</h1>
-			<h2>Software Developer. I get shit done</h2>
-			<h1>Rob Byrne</h1>
-			<h2>Software Developer. I get shit done</h2>
-			<h1>Rob Byrne</h1>
-			<h2>Software Developer. I get shit done</h2>
-			<h1>Rob Byrne</h1>
-			<h2>Software Developer. I get shit done</h2>
-			<h1>Rob Byrne</h1>
-			<h2>Software Developer. I get shit done</h2>
-			<h1>Rob Byrne</h1>
-			<h2>Software Developer. I get shit done</h2>
-			<h1>Rob Byrne</h1>
-			<h2>Software Developer. I get shit done</h2>
-			<h1>Rob Byrne</h1>
-			<h2>Software Developer. I get shit done</h2>
-			<h1>Rob Byrne</h1>
-			<h2>Software Developer. I get shit done</h2>
-			<h1>Rob Byrne</h1>
-			<h2>Software Developer. I get shit done</h2>
-			<h1>Rob Byrne</h1>
-			<h2>Software Developer. I get shit done</h2>
-			<h1>Rob Byrne</h1>
-			<h2>Software Developer. I get shit done</h2>
-
+			<PortfolioPage />
 		</div>
 	)
 };
