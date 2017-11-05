@@ -28,7 +28,7 @@ import SocialMediaSection from './SocialMediaSection/SocialMediaSection'
 const SocialBarHeader = () => {
 	const style = {
 		socialBarHeader: {
-			background: 'rgba(0,0,0,.15)',
+			background: '#423F4E',
 			overflow: 'hidden',
 			padding: '5px 8px',
 			zIndex: '10',
@@ -74,7 +74,6 @@ const SocialBarHeader = () => {
 	return (
 		<div className="socialBar-header" style={style.socialBarHeader}>
 			<SocialMediaSection />
-			<p>Something></p>
 		</div>
 	)
 };
