@@ -1,6 +1,29 @@
 import React from "react"
 
-import logo from '../../logo.svg';
+import logo from '../App/logo.svg';
+
+// .aboutMe-section {
+// 	background: #F0B67F;
+// 	text-align: center;
+// 	padding: 50px;
+// }
+// @media (min-width: 320px) {
+//
+// }
+// @media (min-width: 480px) {
+//
+// }
+// @media (min-width: 600px) {
+//
+// }
+// @media (min-width: 801px) {
+//
+// }
+// @media (min-width: 1025px) {
+//
+// }
+// @media (min-width: 1281px) {
+
 
 const SideBarMenu = () => {
 	const style = {
@@ -13,14 +36,14 @@ const SideBarMenu = () => {
 			left: 0,
 			overflowX: 'hidden',
 			overflowY: 'auto',
-			background: '#343131',
+			background: '#A8DFD9',
 			zIndex: 200,
 			display: 'block',
 			verticalAlign: 'middle',
 		},
 		sidebarMenuHeader: {
 			height: '80px',
-			background: '#41B883',
+			background: '#5C586A',
 			icon: {
 				float: 'left',
 				width: '33%',
@@ -35,7 +58,7 @@ const SideBarMenu = () => {
 		sideBarFooter: {
 			position: 'fixed',
 			bottom: '0px',
-			background: '#41B883',
+			background: '#5C586A',
 			width: '300px',
 		}
 	};
