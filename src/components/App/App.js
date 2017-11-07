@@ -1,36 +1,63 @@
 import React, { Component } from 'react';
 import Media from 'react-media'
+import FaBars from 'react-icons/lib/fa/bars'
 
 import './App.css';
 
 import SideBarMenu from '../SideBar/SideBarMenu'
 import MainContent from '../MainContent/MainContent'
 import SocialBarHeader from '../SocialBarHeader/SocialBarHeader'
+import MobileHamburgerMenu from "../SideBar/MobileHamburgerMenu";
 
 class App extends Component {
+
+	burgerToggle = () => {
+		let linksEl = document.querySelector('.narrowLinks');
+		if (linksEl.style.display === 'block') {
+			linksEl.style.display = 'none';
+		} else {
+			linksEl.style.display = 'block';
+		}
+	}
+
 	render() {
 		return (
-            <div className="App">
-	            <Media query="(min-width: 768px)">
-		            {matches => matches ? (
-		            	<div>
-				            <SocialBarHeader/>
-				            <SideBarMenu />
-				            <MainContent />
-			            </div>
-		            ) : (
-			            <p>The document is at least 600px wide.</p>
-		            )}
+			<div className="App">
+				<Media query="(min-width: 768px)">
+					{matches => matches ? (
+						<div>
+							<SocialBarHeader/>
+							<SideBarMenu />
+							<MainContent />
+						</div>
+					) : (
+						<div>
+							<nav>
+								<div className="navNarrow">
+									<i className="" onClick={this.burgerToggle}><FaBars size={22} /></i>
+									<div className="narrowLinks">
+										<a href="#" onClick={this.burgerToggle}>Link 1</a>
+										<a href="#" onClick={this.burgerToggle}>Link 2</a>
+										<a href="#" onClick={this.burgerToggle}>Link 3</a>
+									</div>
+								</div>
+							</nav>
+							<div>
+								<SocialBarHeader/>
+								<MainContent />
+							</div>
+						</div>
+					)}
 
-	            </Media>
-                {/*<header className="App-header">*/}
-                    {/*<img src={logo} className="App-logo" alt="logo" />*/}
-                    {/*<h1 className="App-title">Welcome to React</h1>*/}
-                {/*</header>*/}
-                {/*<p className="App-intro">*/}
-                    {/*To get started, edit <code>src/App.js</code> and save to reload.*/}
-                {/*</p>*/}
-            </div>
+				</Media>
+				{/*<header className="App-header">*/}
+				{/*<img src={logo} className="App-logo" alt="logo" />*/}
+				{/*<h1 className="App-title">Welcome to React</h1>*/}
+				{/*</header>*/}
+				{/*<p className="App-intro">*/}
+				{/*To get started, edit <code>src/App.js</code> and save to reload.*/}
+				{/*</p>*/}
+			</div>
 		);
 	}
 }

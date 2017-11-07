@@ -26,3 +26,54 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+nav {
+  background-color: #5C586A;
+  overflow: hidden;
+  padding: 1em;
+  border-bottom: 1px solid #A8DFD9;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+nav a {
+  color: #fff;
+}
+nav a:visited {
+  color: #fff;
+}
+nav .navWide {
+  display: none;
+  margin: 0 auto;
+}
+nav .navWide .wideDiv {
+  text-align: center;
+}
+nav .navWide .wideDiv a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 0 2em;
+}
+nav .navNarrow i {
+  float: left;
+  cursor: pointer;
+  color: #fff;
+}
+nav .navNarrow .narrowLinks {
+  display: none;
+}
+nav .navNarrow .narrowLinks a {
+  text-decoration: none;
+  display: block;
+  float: left;
+  clear: left;
+  padding: 0.5em 0;
+}
+@media (min-width: 768px) {
+  nav .navWide {
+    display: block;
+  }
+  nav .navNarrow {
+    display: none;
+  }
+}

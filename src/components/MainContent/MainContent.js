@@ -1,5 +1,6 @@
 import React from "react"
 import PortfolioPage from '../PortfolioPage/PortfolioPage'
+import Media from 'react-media'
 
 const MainContent = () => {
 	const mainContentStyle = {
@@ -10,10 +11,26 @@ const MainContent = () => {
 		boxSizing: 'border-box',
 		marginTop: '50px'
 	};
+	const mobileMainContentStyle = {
+		background: '#fcfcfc',
+		minHeight: '100%',
+		display: 'block',
+		boxSizing: 'border-box',
+		marginTop: '50px'
+	};
 	return (
-		<div className="main-content" style={mainContentStyle}>
-			<PortfolioPage />
-		</div>
+		<Media query="(min-width: 768px)">
+			{matches => matches ? (
+				<div className="main-content" style={mainContentStyle}>
+					<PortfolioPage />
+				</div>
+			) : (
+				<div className="main-content" style={mobileMainContentStyle}>
+					<PortfolioPage />
+				</div>
+			)}
+
+		</Media>
 	)
 };
 
