@@ -36,9 +36,11 @@ class App extends Component {
 								<div className="navNarrow">
 									<i className="" onClick={this.burgerToggle}><FaBars size={22} /></i>
 									<div className="narrowLinks">
-										<a href="#" onClick={this.burgerToggle}>Link 1</a>
-										<a href="#" onClick={this.burgerToggle}>Link 2</a>
-										<a href="#" onClick={this.burgerToggle}>Link 3</a>
+										<a href="#aboutMe" onClick={this.burgerToggle}>About Me</a>
+										<a href="#contactInfo" onClick={this.burgerToggle}>Contact Info</a>
+										<a href="#skills" onClick={this.burgerToggle}>Skills</a>
+										<a href="#startupAccelerator" onClick={this.burgerToggle}>Startup Accelerator</a>
+										<a href="#hackathons" onClick={this.burgerToggle}>Hack-A-Thons</a>
 									</div>
 								</div>
 							</nav>
