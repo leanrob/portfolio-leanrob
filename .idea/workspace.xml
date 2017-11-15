@@ -2,7 +2,364 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29159f41-f86c-4baf-b459-d8a9368b79f0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/App/App.js" afterPath="$PROJECT_DIR$/src/components/App/App.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/001a8d354722aa593cf34cb79bc48d19d0d10807.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/030ed510452e4a4aa60d9ed9830cdfeeed2c848a.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/04ce3c1028431a757a36c4f4ffdee859226eee63.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/05b58f0abbd921c2d07e0c3722187e70c290edb0.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/05c5ef31a88b495911b61c5dd4b43c7f5b445afb.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/08e82976f01bc8491653e777da7357615b0a68a8.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0eab3c4cb121b3767329b678ff61b77c72041101.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0ebe96746bdff772977acee277ceedcd309f3f72.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0ef541c69cede0cfdd773a96af40b8a9e4b0ee4a.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0f5dd4cbf15693f2f99514744170d2c8e52d0173.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/10d18572aaeeca60414bff6bd6919356772b090b.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/115af9e36876eec95fa2a7548b225a3c713471fe.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1167fc778a4a98cd72c15b5bea52e9d9eb33483b.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/11b6971b35e32f37fe7efa6175e59de2a0326bb8.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/14df3d5bdd28e7c85467100a0693a23d3ecdb5cf.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/14e8723dadf09567d4414a8646f4bb8c20617936.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/160ff1cdb0ce545f905f882f5dccaf61bdf8bcab.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/184e3c4705444425eaf49fa1663ebf225df609a5.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/18cb975e6c229beee3a96e9f27753a35aa3c6e27.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1941633cd13c9a882a5a3b9955f699aea958145d.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1c98e166d47c2d8463780ab3d20f5ecbd67cd2b1.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2262e73be9bf2f459ab423a8c58c8cd6d4b457a6.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/236eb73d80049e2500d106822007c20adbf59cbf.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/23b95c271e76bcb19b644303433c9507fcb72293.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2479974963f879d42b8a78ed76dd05503d07b24b.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/271bab35e3ebc315862a962838084fe02f57db71.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/28334b04152e9880bad83799afec76fe6455625d.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/29c8bbdff633b636b8be892c02e6af3949c7606e.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2a34351b21a61d47d354187cdb68e920750f2c12.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2a5240d8db309383a40f0d5d73074805ce41fbed.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2d7b98915c8765a17e410f5b3721a3e62add835b.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2e060f01177cf5b307fc90bb72cdb1ae0b925cc4.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2e50363e4188151cac34053a7b86fae8b0e83685.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2fb3f99f05d59a0fab576996a99d4c2ec613b5d7.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/30b4c29d00a3071e412848f61bbecfe5a5455c0b.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/340a9f39dc8adbf5bb44abf50af1cb3cbaadb6a1.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/35660abcac5c9809a5b1104627c162dce879b554.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/357f4477fa4e9b09d08376d0077aa20090366df8.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/383e98db653e519f59b19f2c4f2497a2d2471de3.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/38e28e29beab747a7f04d674d9d90f5277992352.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/39b00ce7cd04f3eed377138827b01211408aef00.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/3b7777080da896c3631bd28e5f6d5886bb7db2fd.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/3c523e743abd39d5b05d5e806ddc1a35ca240a00.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/400ea6bf05275d74e2afbe4218e84bcf1c4fa336.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/4030b1f22b1c4618bc49ceb21a62a8c9d3c8257b.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/41b814d4899484a13bff21a81c8f8bf01d54bddc.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/434375c9f9879c763c1f6faddc16f5dc405e3798.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/44849984b5949b50fd3a085f2ce1e620c624700c.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/44c7fbe295a5393fadc0bb20a09a628da8ac998e.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/4733fa1dd127046e565c02afee81581ded7be4bf.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/47c0392a467440c650e8d602172479071bd0c8a1.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/48d873869c87407336c73ae8e0514a335ffcae66.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/49f9fafcac67535d84d1f17b8620bda655bc7067.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/4b450649ac0ee717726185a5495b253ef9f74876.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/4c4ab880a8dae66434203b37f67a716da903553d.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/4e5c862eb995d244c4838334d74001c0675e4404.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5006481f5b1c1fbba0a2c15183e5bc5b8c660be2.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/50fbc004b998feafa6e44eee683458df50c03bf1.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/527ebec5fe17d03bbcab902244762f17d96554d7.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/53fea9ec298d5e8c9658778a5c1acdb8d655c7f2.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/54cbb74b2d930f5780d554764ededf5eafa2f644.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/54de0ed773b450bb28fe84ea2018cc3e3b46460a.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/54f42d866e872e764fe3993cf9911af431cd6b44.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5a545321ec18a7b22b573bdab44ace0c25446a59.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5b5a06c34a597c725c7cc23d694e62b9eddae766.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5cf03382100f8b067e92a5aca33822defa1e0810.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5fcfd7a913c86593bf6b102b476221f912d6929a.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5fe18c18edf244256623dcaf609b4111dfde8a77.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/62b9245427e0fc7a82ae21569b0fd7d74a5e0065.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/634f58af4ee0ad8e8368aa439d1618576bb8e449.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6395be24c3560f11989cd620d8db7e5e0852ad15.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/648b4a4135cf556517d51b55b149f62c154cddbf.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/65c87ffaf3a462cc1863c4c3357ba0012d340e5d.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/661f87310e5f6bd6ebc5e05e4a8e3df5d6527492.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/695852e915396e0a5dcf1d7d1770de64e22c418b.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/69ca52bd1cccd4bd268ace87b7be983b926996f5.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/69df1c7b25a36d9399b291c087b34108b39fd9f4.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6a672f14253c65fb314e1938ac61146ff0820f2d.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6b46b153c92acbf166d59b5e97c165b800f58a7c.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6e4072123e8b290bd8da2438bd72bf8aa08caef7.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/70c562aaf2dedecafa1c76ce6f8cea816e46ab3e.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/732ba1a79e5156b87bc74aef32d87cf3552ae780.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7560720c877f78cbdaef646e9cbdf6e20c6b7092.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/756155e74c54ec2381ee43b5e1faa4d5db7c7193.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/75f41eb5c2a00cae873e56b24747d27ab5bdcb6c.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/77e788de352684e92f82d4a5e56c6ea36a9a6909.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7a7041ee3d3b53b75e8a13cb00a7cb12db9a5dde.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7b92068323627418de84e81473423a1b45c2c079.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7bec62cbe681e243aca501933dc9de2d9c401dd8.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7d8206e6922d91ff438effe52ec0e287ec495fa0.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7e721621c11e2b2b32ca14f315542d1d0539344a.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7ecf9be0c061debc0b168169b0d7baa8b9a5b2b0.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7f41fd1f9eb149d0e79c529a1732da15751954dc.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/813f76aae6c31b38f49b40292f82afe793bce364.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/81cbd6bf6b3f9d61f5ed3478e8024934fe4caf5b.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/825a595e893247f97966a1163e9ac5236a120c9e.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/82a47c45ccba6218f6d4b1047b535f4c8025f132.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/82f71a08ea32ac96a59f9b5ae76c6a083384d92c.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/83b363a51c0556b1ef91b86a532dfe4f945fda4b.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/86e0fa08184ec1bf6712b62d9cb94c4814dfc22d.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/880643af625cc5e4ad26cc2ad67263167de96029.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/889f416451efee07aa5ef4e30db29dd0632b5202.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/88d39c79d1110d55c66532280dc0f1fa14613188.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/894fc6a17dbfce0db9bcc8b9c15aba2b76bfc9f7.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/89e2681318c3d0db04219228431b2f6bb11552a4.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/8b4c150099f5b2d5a2775fdeb3fb98a2788160c5.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/8c0f264c4f62bae40e56767e92a4d58d47da71af.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/8c2fde6f1bbcd0b7ee4a14ba65d9e4c79e7201ae.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/8cfc5beaff205fc02408aad3a4f3d1f3c2db9a5b.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/8e0e376d1e8096868cf939bbf819632b0456a59f.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/8fabeed2fabef720c63dd930981b75fdd4b13610.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/8ff58cfce36c5d1e2535584a03a211f44b83396c.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/90e2cc7207be510738466d62b9c3cde84e97c94a.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/91b5b6bd08430f9066babe9f60bcd45cc2258f12.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/93643ca89250f0b26044e3df60f12bc63c6f6ecd.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/9492c6ad9ca74d07e292496292cdc59f2c1ccddd.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/94c33d7730fc8a42c06148442c4d4c5fe176e7a8.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/963a970fbad7db2a96d2c5b25e08b5ef2a643946.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/98afe26b400e1d4b00bdb37202f3b5add115c44b.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/9911d22089f207903a4b7223a233dac9fb40b460.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/996942b75442f71993ccf7d35624bfa828f17e88.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/9b1bf6d6dd647c98be1223619e68918a388c8678.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/9b6cabcf564a309517a842efeed2e9350790eb71.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/9da46b4fe6ccb3c0b8e94a302e75f242751e6ea6.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/9dfa9030aeccd88ac4d33f3f6d5e1cd57057bc01.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/9f02e4287a6b605c74ccbb500fa9bb267d12c04c.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a1af4364d6b3c122ebaf671e0e69b679959f567b.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a1bc6dc649fe2fdb5a8f14668703c504167bced7.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a23d9957309e7627ebb08bc07920cbcb77106799.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a649302f4fd0404089ee113458ed588db8493bf0.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a653c7dae13a03a0c2fc41a69bd70516dfc0da41.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a6d29e100feecb9f9313196287aeac5e8d81886f.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a722bbc7bf3fc75a89909a2c38cbfeb850a29b5b.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a800530a6b5955beb4229a97b7c99842fdc6cec4.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a8e9bd9d8e39d1c9b18032de3ef8ec9f55798e42.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/aab85a86962e54d3ef2ae2f7652bde60b5832724.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/acbb87da1b1895d6719e02a12543c282fa939cfc.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/acf9db2c13312ce1d243e10b3ab8bffd3b3db8d2.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ad7e16f11898e3866bdbe5a820dba738afe09c70.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/aee6466781d75cb6ef2fdf14d3e42ceefe6bb44a.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/aeeebb336714760a50b24f17e1e2968dc7e064cb.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b0f8de776eedfcc500996546228d2ebaed8b596e.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b25e1ae4221d6d569ca072ef424db0ba053799e6.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b26e6a8c34172e63cd2600f8b59e638676d9a8e2.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b2fee89bbc9d35d641ad03924424f079608c4b33.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b473a1b30a2287aadd14fedee81f1543e680ea8c.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b5fe54b258bc02526f9a60f72f4689ab257770c6.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b6ba4c19f6efaff608246739ce73d0e884c55c17.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b6d6c535d59a6c3dcbe4c5d8ac36097ac4b88991.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b8519ea3c6cc91bcab72d105098b0bba816e5fe1.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b9dae1b53b502eca3e71d3404ac9ba276b4addcd.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/bc9f07518594cdef658720bde14f2d206fae3955.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/bf57932e1d85e9047f3d8120f0d60d2c21c3f133.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c0309db746820448bf9318c99969b9eb293f6578.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c2225da43bbb1c8cc3cb34b11cb69b4a1c068180.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c870d1d1e2e936d9c304751732f49cf509594d86.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c91e2f99983613449daf273ca9c308d5b60c05f4.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c9cf5e0aa78a0868585ec9cad5ce69fe6b23d245.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ca00928b4a72686e88b6de6327474aac520caceb.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/cafe7822dcbb4ab460274f25a48f26f430bde132.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/cc317c61c407a6216f278f56a8a35b17a591d1f6.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/cc66bf60b7c7e969076c0bcffc9e23a612130d76.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ce34e6e1ff313524ceb0c5172a44c01475acd128.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/cebc37b76df66f494e3ffe8b6722e10f1f5dce79.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d0d9c17067b1121f6aa39890abbd46ec08013edc.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d0e5b9e4e9e6ff11423580ad44ae0fc9671455e4.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d1be33aa69e74558144a755e6552e7bfc88e7af0.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d32f0f40d5ada0be3d00dbe124255cc376a57c29.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d42e9312a87e257e43ce1627d233817102db3ed4.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d5c3e7e9452e21698303662c0c1cac4792607c0f.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d606ba3179f42fafcac912665ab533d5511f1db8.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/dc4a069bc4e01c0b4ced3856851d2ac39b2c775b.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/dd4b02887d59eaad75017b4233b75725822266ee.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/deab65f796f666ae2d8047b972ad36b798271506.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/df9c0c6211458fd5c813d0d9292232fc9f05e047.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e025e3ffe3ec456ba3f20d9ea99d7f670eb42217.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e03181ed762afcd2e4c86ce9d1cfe28e5ff4afb5.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e450168343086520e7e7ad3a314580295d161c9e.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e6d0f03ed65486b924973aef76c4677e42c30fc2.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e7a7725e460684d6f9172a9366a98d6ae058828f.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e941942606a63bb514639fc38d19e63ad76b70f4.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e99954e274f9afda6b55bf19a68b940a4f3f801c.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ea0b4fb63acd47960cf5d314ada6518d8ded5efa.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ea39d09e78920ac9c73b1d79a32239a3275e018c.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ea4d884ec1df60d2279410064288ca81e0c69413.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ea9455eae250d14f45ae92ec064436285ba387b3.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/eb1654dfd02fdf668415674ffab3898e0ca547b3.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/eb36d0275ea7448f8bdc72397cc5ac85d764d5c1.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ebe1544e429508e3f3ecd75e2b90be0b37f192ae.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ed36899fd1d998cfe9b3a43d47f10a420eb10ca9.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ed36b320242efeba8123a7a8e1f189205f90c363.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ede7539e73bd2193a0f9645b2d03c1bd0aaf7a9f.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ee320a22272b273eafee0bd2c3258fe350ee1eed.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f10b3dd04744c8e706db60e323568cb8aeae3622.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f2ad3f2b16cd6d27ed559f696b76467de3edf064.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f4fa4fa162f5aaeb673f22908778d3004c56296d.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f694a4cf043d27d2430e363c580e4c0c936ac1f3.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f7b8210561af9366af2cd9409bb7375d66b6f1a4.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f7f2f41671c6c054e34624801966acc11c2623fb.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/fc1ae6fb25d0732cdbb085e1484b40290d27c126.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/fc1cf47a148f73c781120f5fd07229f86e32cb0b.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/fcce4f8a31801792564cf195becbb7d3ddc36417.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/fce1a6d14dd64b03e05043332426e598fca2e839.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/fd8cd1d30283de639614a3aca030565fc805f9ae.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/escodegen/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/escodegen/LICENSE.BSD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/escodegen/LICENSE.source-map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/escodegen/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/escodegen/bin/escodegen.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/escodegen/bin/esgenerate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/escodegen/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/escodegen/escodegen.browser.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/escodegen/escodegen.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/escodegen/gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/escodegen/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/esprima/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/esprima/bin/esparse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/esprima/bin/esvalidate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/esprima/esprima.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/esprima/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/esprima/test/compat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/esprima/test/reflect.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/esprima/test/run.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/esprima/test/runner.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/esprima/test/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/estraverse/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/estraverse/LICENSE.BSD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/estraverse/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/estraverse/estraverse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/estraverse/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/esutils/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/esutils/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/esutils/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/esutils/lib/code.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/esutils/lib/keyword.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/esutils/lib/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/esutils/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/esutils/test/code.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/esutils/test/keyword.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/Makefile.dryice.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/build/assert-shim.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/build/mini-require.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/build/prefix-source-map.jsm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/build/prefix-utils.jsm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/build/suffix-browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/build/suffix-source-map.jsm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/build/suffix-utils.jsm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/build/test-prefix.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/build/test-suffix.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/lib/source-map.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/lib/source-map/array-set.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/lib/source-map/base64-vlq.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/lib/source-map/base64.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/lib/source-map/binary-search.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/lib/source-map/mapping-list.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/lib/source-map/source-map-consumer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/lib/source-map/source-map-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/lib/source-map/source-node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/lib/source-map/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/test/run-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/test/source-map/test-api.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/test/source-map/test-array-set.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/test/source-map/test-base64-vlq.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/test/source-map/test-base64.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/test/source-map/test-binary-search.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/test/source-map/test-dog-fooding.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/test/source-map/test-source-map-consumer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/test/source-map/test-source-map-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/test/source-map/test-source-node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/test/source-map/test-util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/source-map/test/source-map/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/escodegen/node_modules/esprima/ChangeLog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/escodegen/node_modules/esprima/LICENSE.BSD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/escodegen/node_modules/esprima/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/escodegen/node_modules/esprima/bin/esparse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/escodegen/node_modules/esprima/bin/esvalidate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/escodegen/node_modules/esprima/dist/esprima.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/escodegen/node_modules/esprima/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/esprima/ChangeLog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/esprima/LICENSE.BSD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/esprima/dist/esprima.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/esparse" afterPath="$PROJECT_DIR$/node_modules/.bin/esparse" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/esvalidate" afterPath="$PROJECT_DIR$/node_modules/.bin/esvalidate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/.bin/escodegen" afterPath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/.bin/escodegen" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/.bin/esgenerate" afterPath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/.bin/esgenerate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/.bin/esparse" afterPath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/.bin/esparse" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/.bin/esvalidate" afterPath="$PROJECT_DIR$/node_modules/ast-transform/node_modules/.bin/esvalidate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/ast-transform/package.json" afterPath="$PROJECT_DIR$/node_modules/ast-transform/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/ast-types/package.json" afterPath="$PROJECT_DIR$/node_modules/ast-types/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify-optional/package.json" afterPath="$PROJECT_DIR$/node_modules/browserify-optional/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/classnames/package.json" afterPath="$PROJECT_DIR$/node_modules/classnames/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/escodegen/README.md" afterPath="$PROJECT_DIR$/node_modules/escodegen/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/escodegen/bin/escodegen.js" afterPath="$PROJECT_DIR$/node_modules/escodegen/bin/escodegen.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/escodegen/bin/esgenerate.js" afterPath="$PROJECT_DIR$/node_modules/escodegen/bin/esgenerate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/escodegen/escodegen.js" afterPath="$PROJECT_DIR$/node_modules/escodegen/escodegen.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/escodegen/node_modules/.bin/esparse" afterPath="$PROJECT_DIR$/node_modules/escodegen/node_modules/.bin/esparse" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/escodegen/node_modules/.bin/esvalidate" afterPath="$PROJECT_DIR$/node_modules/escodegen/node_modules/.bin/esvalidate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/escodegen/package.json" afterPath="$PROJECT_DIR$/node_modules/escodegen/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/esprima/README.md" afterPath="$PROJECT_DIR$/node_modules/esprima/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/esprima/bin/esparse.js" afterPath="$PROJECT_DIR$/node_modules/esprima/bin/esparse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/esprima/bin/esvalidate.js" afterPath="$PROJECT_DIR$/node_modules/esprima/bin/esvalidate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/esprima/package.json" afterPath="$PROJECT_DIR$/node_modules/esprima/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/eve/package.json" afterPath="$PROJECT_DIR$/node_modules/eve/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/js-yaml/node_modules/.bin/esparse" afterPath="$PROJECT_DIR$/node_modules/js-yaml/node_modules/.bin/esparse" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/js-yaml/node_modules/.bin/esvalidate" afterPath="$PROJECT_DIR$/node_modules/js-yaml/node_modules/.bin/esvalidate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jsdom/node_modules/.bin/escodegen" afterPath="$PROJECT_DIR$/node_modules/jsdom/node_modules/.bin/escodegen" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jsdom/node_modules/.bin/esgenerate" afterPath="$PROJECT_DIR$/node_modules/jsdom/node_modules/.bin/esgenerate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json2mq/package.json" afterPath="$PROJECT_DIR$/node_modules/json2mq/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/prop-types/package.json" afterPath="$PROJECT_DIR$/node_modules/prop-types/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-burger-menu/dist/react-burger-menu.js" afterPath="$PROJECT_DIR$/node_modules/react-burger-menu/dist/react-burger-menu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-burger-menu/dist/react-burger-menu.min.js" afterPath="$PROJECT_DIR$/node_modules/react-burger-menu/dist/react-burger-menu.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-burger-menu/lib/menuFactory.js" afterPath="$PROJECT_DIR$/node_modules/react-burger-menu/lib/menuFactory.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-burger-menu/package.json" afterPath="$PROJECT_DIR$/node_modules/react-burger-menu/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.browser.development.js" afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.browser.development.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js" afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.node.development.js" afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.node.development.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.node.production.min.js" afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.node.production.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-test-utils.development.js" afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-test-utils.development.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-native-dependencies.development.js" afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-native-dependencies.development.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-native-dependencies.production.min.js" afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-native-dependencies.production.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.development.js" afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.development.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.production.min.js" afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.production.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-dom/package.json" afterPath="$PROJECT_DIR$/node_modules/react-dom/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-dom/server.js" afterPath="$PROJECT_DIR$/node_modules/react-dom/server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-dom/test-utils.js" afterPath="$PROJECT_DIR$/node_modules/react-dom/test-utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-server.browser.development.js" afterPath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-server.browser.development.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-server.browser.production.min.js" afterPath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-server.browser.production.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-unstable-native-dependencies.development.js" afterPath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-unstable-native-dependencies.development.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-unstable-native-dependencies.production.min.js" afterPath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-unstable-native-dependencies.production.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom.development.js" afterPath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom.development.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom.production.min.js" afterPath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom.production.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-icon-base/package.json" afterPath="$PROJECT_DIR$/node_modules/react-icon-base/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-icons/package.json" afterPath="$PROJECT_DIR$/node_modules/react-icons/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-media/package.json" afterPath="$PROJECT_DIR$/node_modules/react-media/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-sidebar/package.json" afterPath="$PROJECT_DIR$/node_modules/react-sidebar/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/README.md" afterPath="$PROJECT_DIR$/node_modules/react/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/cjs/react.development.js" afterPath="$PROJECT_DIR$/node_modules/react/cjs/react.development.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/cjs/react.production.min.js" afterPath="$PROJECT_DIR$/node_modules/react/cjs/react.production.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/package.json" afterPath="$PROJECT_DIR$/node_modules/react/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/umd/react.development.js" afterPath="$PROJECT_DIR$/node_modules/react/umd/react.development.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/umd/react.production.min.js" afterPath="$PROJECT_DIR$/node_modules/react/umd/react.production.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/snapsvg-cjs/package.json" afterPath="$PROJECT_DIR$/node_modules/snapsvg-cjs/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/snapsvg/package.json" afterPath="$PROJECT_DIR$/node_modules/snapsvg/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/string-convert/package.json" afterPath="$PROJECT_DIR$/node_modules/string-convert/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/App/App.css" afterPath="$PROJECT_DIR$/src/components/App/App.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/PortfolioPage/AboutMeSection/AboutMeSection.js" afterPath="$PROJECT_DIR$/src/components/PortfolioPage/AboutMeSection/AboutMeSection.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/SocialBarHeader/SocialMediaSection/SocialMediaButton.js" afterPath="$PROJECT_DIR$/src/components/SocialBarHeader/SocialMediaSection/SocialMediaButton.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/SocialBarHeader/SocialMediaSection/SocialMediaSection.js" afterPath="$PROJECT_DIR$/src/components/SocialBarHeader/SocialMediaSection/SocialMediaSection.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yarn.lock" afterPath="$PROJECT_DIR$/yarn.lock" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,68 +382,18 @@
       <file leaf-file-name="MainContent.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/MainContent/MainContent.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="36">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PortfolioPage.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/PortfolioPage/PortfolioPage.js">
+      <file leaf-file-name="mainContent.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/MainContent/mainContent.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/App/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="42" column="106" lean-forward="true" selection-start-line="42" selection-start-column="106" selection-end-line="42" selection-end-column="106" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SocialBarHeader.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/SocialBarHeader/SocialBarHeader.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-44">
-              <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SocialMediaSection.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/SocialBarHeader/SocialMediaSection/SocialMediaSection.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="App.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/App/App.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="805">
-              <caret line="35" column="9" lean-forward="false" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+            <state relative-caret-position="368">
+              <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -95,30 +402,8 @@
       <file leaf-file-name="AboutMeSection.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/PortfolioPage/AboutMeSection/AboutMeSection.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MobileHamburgerMenu.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/SideBar/MobileHamburgerMenu.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#40#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SideBarMenu.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/SideBar/SideBarMenu.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="471">
-              <caret line="92" column="40" lean-forward="true" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="40" />
+            <state relative-caret-position="115">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -129,11 +414,108 @@
       <file leaf-file-name="SocialMediaButton.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/SocialBarHeader/SocialMediaSection/SocialMediaButton.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1173">
-              <caret line="54" column="32" lean-forward="false" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
+            <state relative-caret-position="467">
+              <caret line="40" column="63" lean-forward="true" selection-start-line="40" selection-start-column="63" selection-end-line="40" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SocialMediaSection.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/SocialBarHeader/SocialMediaSection/SocialMediaSection.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SocialBarHeader.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/SocialBarHeader/SocialBarHeader.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/App/App.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding>
-                <element signature="e#0#25#0" expanded="true" />
+                <marker date="1510733469755" expanded="true" signature="5:8" ph="{...}" />
+                <marker date="1510733469755" expanded="true" signature="21:88" ph="{...}" />
+                <marker date="1510733469755" expanded="true" signature="102:181" ph="{...}" />
+                <marker date="1510733469755" expanded="true" signature="194:217" ph="{...}" />
+                <marker date="1510733469755" expanded="true" signature="280:355" ph="..." />
+                <marker date="1510733469755" expanded="true" signature="361:509" ph="{...}" />
+                <marker date="1510733469755" expanded="true" signature="516:534" ph="{...}" />
+                <marker date="1510733469755" expanded="true" signature="549:567" ph="{...}" />
+                <marker date="1510733469755" expanded="true" signature="581:619" ph="{...}" />
+                <marker date="1510733469755" expanded="true" signature="692:763" ph="{...}" />
+                <marker date="1510733469755" expanded="true" signature="781:833" ph="{...}" />
+                <marker date="1510733469755" expanded="true" signature="913:1009" ph="{...}" />
+                <marker date="1510733469755" expanded="true" signature="1036:1122" ph="{...}" />
+                <marker date="1510733469755" expanded="true" signature="1053:1078" ph="{...}" />
+                <marker date="1510733469755" expanded="true" signature="1096:1120" ph="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/App/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+                <marker date="1510730939653" expanded="true" signature="403:1889" ph="{...}" />
+                <marker date="1510730939653" expanded="true" signature="629:1887" ph="{...}" />
+                <marker date="1510730939653" expanded="true" signature="645:1879" ph="&lt;div/&gt;" />
+                <marker date="1510730939653" expanded="true" signature="671:1869" ph="&lt;Media/&gt;" />
+                <marker date="1510730939653" expanded="true" signature="741:745" ph="&lt;div/&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SideBarMenu.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/SideBar/SideBarMenu.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1449">
+              <caret line="65" column="69" lean-forward="false" selection-start-line="65" selection-start-column="69" selection-end-line="65" selection-end-column="69" />
+              <folding>
+                <marker date="1510730939657" expanded="true" signature="415:1962" ph="{...}" />
+                <marker date="1510730939657" expanded="true" signature="432:650" ph="{...}" />
+                <marker date="1510730939657" expanded="true" signature="454:650" ph="{&quot;width&quot;: '300px'...}" />
+                <marker date="1510730939657" expanded="true" signature="1121:1957" ph="&lt;div/&gt;" />
+                <marker date="1510730939657" expanded="true" signature="1125:1429" ph="&lt;div/&gt;" />
+                <marker date="1510730939657" expanded="true" signature="1199:1333" ph="&lt;div/&gt;" />
+                <marker date="1510730939657" expanded="true" signature="1247:1322" ph="&lt;img/&gt;" />
+                <marker date="1510730939657" expanded="true" signature="1338:1419" ph="&lt;div/&gt;" />
+                <marker date="1510730939657" expanded="true" signature="1443:1849" ph="&lt;div/&gt;" />
+                <marker date="1510730939657" expanded="true" signature="1486:1536" ph="&lt;p/&gt;" />
+                <marker date="1510730939657" expanded="true" signature="1610:1660" ph="&lt;p/&gt;" />
+                <marker date="1510730939657" expanded="true" signature="1665:1736" ph="&lt;p/&gt;" />
+                <marker date="1510730939657" expanded="true" signature="1741:1797" ph="&lt;p/&gt;" />
+                <marker date="1510730939657" expanded="true" signature="1802:1839" ph="&lt;p/&gt;" />
+                <marker date="1510730939657" expanded="true" signature="1853:1948" ph="&lt;div/&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -157,6 +539,7 @@
       <find>square</find>
       <find>var</find>
       <find>) {</find>
+      <find>center</find>
     </findStrings>
     <replaceStrings>
       <replace>;</replace>
@@ -185,15 +568,16 @@
         <option value="$PROJECT_DIR$/src/components/PortfolioPage/SkillsSection/SkillsSection.js" />
         <option value="$PROJECT_DIR$/src/components/PortfolioPage/StartupAcceleratorSection/StartupAcceleratorSection.js" />
         <option value="$PROJECT_DIR$/src/components/SideBar/SideBarMenu.js" />
-        <option value="$PROJECT_DIR$/src/components/PortfolioPage/AboutMeSection/AboutMeSection.js" />
         <option value="$PROJECT_DIR$/src/components/PortfolioPage/PortfolioPage.js" />
-        <option value="$PROJECT_DIR$/src/components/SocialBarHeader/SocialMediaSection/SocialMediaButton.js" />
         <option value="$PROJECT_DIR$/src/components/SideBar/MobileHamburgerMenu.js" />
         <option value="$PROJECT_DIR$/src/components/MainContent/MainContent.js" />
         <option value="$PROJECT_DIR$/src/components/SocialBarHeader/SocialBarHeader.js" />
         <option value="$PROJECT_DIR$/src/components/App/App.css" />
-        <option value="$PROJECT_DIR$/src/components/SocialBarHeader/SocialMediaSection/SocialMediaSection.js" />
         <option value="$PROJECT_DIR$/src/components/App/App.js" />
+        <option value="$PROJECT_DIR$/src/components/MainContent/mainContent.css" />
+        <option value="$PROJECT_DIR$/src/components/PortfolioPage/AboutMeSection/AboutMeSection.js" />
+        <option value="$PROJECT_DIR$/src/components/SocialBarHeader/SocialMediaSection/SocialMediaButton.js" />
+        <option value="$PROJECT_DIR$/src/components/SocialBarHeader/SocialMediaSection/SocialMediaSection.js" />
       </list>
     </option>
   </component>
@@ -256,6 +640,11 @@
             <path>
               <item name="portfolio-leanrob" type="b2602c69:ProjectViewProjectNode" />
               <item name="portfolio-leanrob" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio-leanrob" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio-leanrob" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -283,13 +672,6 @@
               <item name="portfolio-leanrob" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="NotFound" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="portfolio-leanrob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="portfolio-leanrob" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="PortfolioPage" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -299,53 +681,6 @@
               <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="PortfolioPage" type="462c0819:PsiDirectoryNode" />
               <item name="AboutMeSection" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="portfolio-leanrob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="portfolio-leanrob" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="PortfolioPage" type="462c0819:PsiDirectoryNode" />
-              <item name="ContactInfoSection" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="portfolio-leanrob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="portfolio-leanrob" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="PortfolioPage" type="462c0819:PsiDirectoryNode" />
-              <item name="HackathonsSection" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="portfolio-leanrob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="portfolio-leanrob" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="PortfolioPage" type="462c0819:PsiDirectoryNode" />
-              <item name="HeadingSection" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="portfolio-leanrob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="portfolio-leanrob" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="PortfolioPage" type="462c0819:PsiDirectoryNode" />
-              <item name="SkillsSection" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="portfolio-leanrob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="portfolio-leanrob" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="PortfolioPage" type="462c0819:PsiDirectoryNode" />
-              <item name="StartupAcceleratorSection" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="portfolio-leanrob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="portfolio-leanrob" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="SideBar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="portfolio-leanrob" type="b2602c69:ProjectViewProjectNode" />
@@ -366,8 +701,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -420,15 +755,16 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23419000" />
+    <option name="totallyTimeSpent" value="25474000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="158" y="49" width="1400" height="936" extended-state="0" />
+    <frame x="0" y="22" width="1680" height="979" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15238096" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -437,12 +773,21 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -456,51 +801,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/components/SideBar/MobileHamburgerMenu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/PortfolioPage/HeadingSection/HeadingSection.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="2" lean-forward="false" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/SideBar/SideBarMenu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1863">
-          <caret line="83" column="66" lean-forward="false" selection-start-line="83" selection-start-column="20" selection-end-line="83" selection-end-column="66" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/SocialBarHeader/SocialMediaSection/SocialMediaButton.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1173">
-          <caret line="54" column="32" lean-forward="false" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/MainContent/MainContent.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -509,7 +814,7 @@
         <state relative-caret-position="161">
           <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
           <folding>
-            <element signature="e#0#25#0" expanded="true" />
+            <element signature="e#0#25#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -518,7 +823,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-          <folding />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -526,7 +833,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -534,7 +840,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -542,7 +847,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -550,7 +854,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -567,7 +870,21 @@
         <state relative-caret-position="2162">
           <caret line="96" column="20" lean-forward="false" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
           <folding>
-            <element signature="e#0#25#0" expanded="true" />
+            <marker date="1510730939657" expanded="true" signature="415:1962" ph="{...}" />
+            <marker date="1510730939657" expanded="true" signature="432:650" ph="{...}" />
+            <marker date="1510730939657" expanded="true" signature="454:650" ph="{&quot;width&quot;: '300px'...}" />
+            <marker date="1510730939657" expanded="true" signature="1121:1957" ph="&lt;div/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1125:1429" ph="&lt;div/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1199:1333" ph="&lt;div/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1247:1322" ph="&lt;img/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1338:1419" ph="&lt;div/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1443:1849" ph="&lt;div/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1486:1536" ph="&lt;p/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1610:1660" ph="&lt;p/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1665:1736" ph="&lt;p/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1741:1797" ph="&lt;p/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1802:1839" ph="&lt;p/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1853:1948" ph="&lt;div/&gt;" />
           </folding>
         </state>
       </provider>
@@ -586,6 +903,11 @@
           <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
+            <marker date="1510730939653" expanded="true" signature="403:1889" ph="{...}" />
+            <marker date="1510730939653" expanded="true" signature="629:1887" ph="{...}" />
+            <marker date="1510730939653" expanded="true" signature="645:1879" ph="&lt;div/&gt;" />
+            <marker date="1510730939653" expanded="true" signature="671:1869" ph="&lt;Media/&gt;" />
+            <marker date="1510730939653" expanded="true" signature="741:745" ph="&lt;div/&gt;" />
           </folding>
         </state>
       </provider>
@@ -614,9 +936,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="13" column="51" lean-forward="false" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -631,9 +951,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#26#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -642,7 +960,21 @@
         <state relative-caret-position="644">
           <caret line="30" column="36" lean-forward="false" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
           <folding>
-            <element signature="e#0#25#0" expanded="true" />
+            <marker date="1510730939657" expanded="true" signature="415:1962" ph="{...}" />
+            <marker date="1510730939657" expanded="true" signature="432:650" ph="{...}" />
+            <marker date="1510730939657" expanded="true" signature="454:650" ph="{&quot;width&quot;: '300px'...}" />
+            <marker date="1510730939657" expanded="true" signature="1121:1957" ph="&lt;div/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1125:1429" ph="&lt;div/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1199:1333" ph="&lt;div/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1247:1322" ph="&lt;img/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1338:1419" ph="&lt;div/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1443:1849" ph="&lt;div/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1486:1536" ph="&lt;p/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1610:1660" ph="&lt;p/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1665:1736" ph="&lt;p/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1741:1797" ph="&lt;p/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1802:1839" ph="&lt;p/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1853:1948" ph="&lt;div/&gt;" />
           </folding>
         </state>
       </provider>
@@ -653,6 +985,11 @@
           <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
+            <marker date="1510730939653" expanded="true" signature="403:1889" ph="{...}" />
+            <marker date="1510730939653" expanded="true" signature="629:1887" ph="{...}" />
+            <marker date="1510730939653" expanded="true" signature="645:1879" ph="&lt;div/&gt;" />
+            <marker date="1510730939653" expanded="true" signature="671:1869" ph="&lt;Media/&gt;" />
+            <marker date="1510730939653" expanded="true" signature="741:745" ph="&lt;div/&gt;" />
           </folding>
         </state>
       </provider>
@@ -681,9 +1018,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="13" column="51" lean-forward="false" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -698,9 +1033,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#26#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -709,7 +1042,21 @@
         <state relative-caret-position="644">
           <caret line="30" column="36" lean-forward="true" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
           <folding>
-            <element signature="e#0#25#0" expanded="true" />
+            <marker date="1510730939657" expanded="true" signature="415:1962" ph="{...}" />
+            <marker date="1510730939657" expanded="true" signature="432:650" ph="{...}" />
+            <marker date="1510730939657" expanded="true" signature="454:650" ph="{&quot;width&quot;: '300px'...}" />
+            <marker date="1510730939657" expanded="true" signature="1121:1957" ph="&lt;div/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1125:1429" ph="&lt;div/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1199:1333" ph="&lt;div/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1247:1322" ph="&lt;img/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1338:1419" ph="&lt;div/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1443:1849" ph="&lt;div/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1486:1536" ph="&lt;p/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1610:1660" ph="&lt;p/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1665:1736" ph="&lt;p/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1741:1797" ph="&lt;p/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1802:1839" ph="&lt;p/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1853:1948" ph="&lt;div/&gt;" />
           </folding>
         </state>
       </provider>
@@ -725,9 +1072,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#26#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -764,7 +1109,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -780,7 +1124,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -788,7 +1131,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -804,7 +1146,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="22" column="2" lean-forward="false" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -812,17 +1153,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/SocialBarHeader/SocialMediaSection/SocialMediaButton.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1173">
-          <caret line="54" column="32" lean-forward="false" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -830,19 +1160,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/MainContent/MainContent.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -851,64 +1168,147 @@
         <state relative-caret-position="322">
           <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
           <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/SocialBarHeader/SocialMediaSection/SocialMediaSection.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
+            <element signature="e#0#25#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/App/App.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="805">
-          <caret line="35" column="9" lean-forward="false" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/PortfolioPage/AboutMeSection/AboutMeSection.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-          <folding />
+        <state relative-caret-position="69">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <marker date="1510733469755" expanded="true" signature="5:8" ph="{...}" />
+            <marker date="1510733469755" expanded="true" signature="21:88" ph="{...}" />
+            <marker date="1510733469755" expanded="true" signature="102:181" ph="{...}" />
+            <marker date="1510733469755" expanded="true" signature="194:217" ph="{...}" />
+            <marker date="1510733469755" expanded="true" signature="280:355" ph="..." />
+            <marker date="1510733469755" expanded="true" signature="361:509" ph="{...}" />
+            <marker date="1510733469755" expanded="true" signature="516:534" ph="{...}" />
+            <marker date="1510733469755" expanded="true" signature="549:567" ph="{...}" />
+            <marker date="1510733469755" expanded="true" signature="581:619" ph="{...}" />
+            <marker date="1510733469755" expanded="true" signature="692:763" ph="{...}" />
+            <marker date="1510733469755" expanded="true" signature="781:833" ph="{...}" />
+            <marker date="1510733469755" expanded="true" signature="913:1009" ph="{...}" />
+            <marker date="1510733469755" expanded="true" signature="1036:1122" ph="{...}" />
+            <marker date="1510733469755" expanded="true" signature="1053:1078" ph="{...}" />
+            <marker date="1510733469755" expanded="true" signature="1096:1120" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/SocialBarHeader/SocialBarHeader.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-44">
-          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="437">
+          <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/SideBar/SideBarMenu.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="92" column="40" lean-forward="true" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="40" />
+        <state relative-caret-position="1449">
+          <caret line="65" column="69" lean-forward="false" selection-start-line="65" selection-start-column="69" selection-end-line="65" selection-end-column="69" />
           <folding>
-            <element signature="e#0#25#0" expanded="true" />
+            <marker date="1510730939657" expanded="true" signature="415:1962" ph="{...}" />
+            <marker date="1510730939657" expanded="true" signature="432:650" ph="{...}" />
+            <marker date="1510730939657" expanded="true" signature="454:650" ph="{&quot;width&quot;: '300px'...}" />
+            <marker date="1510730939657" expanded="true" signature="1121:1957" ph="&lt;div/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1125:1429" ph="&lt;div/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1199:1333" ph="&lt;div/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1247:1322" ph="&lt;img/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1338:1419" ph="&lt;div/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1443:1849" ph="&lt;div/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1486:1536" ph="&lt;p/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1610:1660" ph="&lt;p/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1665:1736" ph="&lt;p/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1741:1797" ph="&lt;p/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1802:1839" ph="&lt;p/&gt;" />
+            <marker date="1510730939657" expanded="true" signature="1853:1948" ph="&lt;div/&gt;" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/App/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="42" column="106" lean-forward="true" selection-start-line="42" selection-start-column="106" selection-end-line="42" selection-end-column="106" />
+        <state relative-caret-position="391">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
+            <marker date="1510730939653" expanded="true" signature="403:1889" ph="{...}" />
+            <marker date="1510730939653" expanded="true" signature="629:1887" ph="{...}" />
+            <marker date="1510730939653" expanded="true" signature="645:1879" ph="&lt;div/&gt;" />
+            <marker date="1510730939653" expanded="true" signature="671:1869" ph="&lt;Media/&gt;" />
+            <marker date="1510730939653" expanded="true" signature="741:745" ph="&lt;div/&gt;" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/PortfolioPage/portfolioPage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/MainContent/mainContent.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/MainContent/MainContent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/PortfolioPage/AboutMeSection/AboutMeSection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/SideBar/sideBarMenu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding>
+            <marker date="1510730930056" expanded="true" signature="5:62" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/SocialBarHeader/SocialMediaSection/SocialMediaButton.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="40" column="63" lean-forward="true" selection-start-line="40" selection-start-column="63" selection-end-line="40" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/SocialBarHeader/SocialMediaSection/SocialMediaSection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>

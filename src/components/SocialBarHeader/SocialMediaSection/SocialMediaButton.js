@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 
 import './socialMediaButton.css'
 
-const SocialMediaButton = ({ content, link }) => {
+const SocialMediaButton = ({ content, link, hoverTitle }) => {
 	const style = {
 		socialMediaButton: {
 			float: 'left',
@@ -38,7 +38,7 @@ const SocialMediaButton = ({ content, link }) => {
 	return (
 		<a className="socialMediaButton" href={link} target="_blank">
 
-			<span className="buttonContent">
+			<span className="buttonContent" title={hoverTitle}>
 				{ content }
 			</span>
 		</a>

@@ -16,9 +16,9 @@ const SocialMediaHeader = () => {
 	};
 	return (
 		<div className="socialMediaSection-header" style={style.socialMediaSection}>
-			<SocialMediaButton content={<FaGithub size={22} />} link={"https://github.com/leanrob"}/>
-			<SocialMediaButton content={<FaTwitter size={22} />} link={"https://twitter.com/lean_rob"}/>
-			<SocialMediaButton content={<FaLinkedin size={22} />} link={"https://www.linkedin.com/in/leanrob/"}/>
+			<SocialMediaButton hoverTitle={"Github: leanrob"} content={<FaGithub size={22} />} link={"https://github.com/leanrob"}/>
+			<SocialMediaButton hoverTitle={"@lean_rob"} content={<FaTwitter size={22} />} link={"https://twitter.com/lean_rob"}/>
+			<SocialMediaButton hoverTitle={"LinkedIn: leanrob"} content={<FaLinkedin size={22} />} link={"https://www.linkedin.com/in/leanrob/"}/>
 		</div>
 	)
 };
