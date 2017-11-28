@@ -1,0 +1,45 @@
+.rob-summary > nav {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    z-index: 1;
+    overflow-y: auto;
+    overflow-x: hidden;
+    width: 300px;
+    color: #364149 !important;
+    background: #fafafa;
+    border-right: 1px solid rgba(0,0,0,.07);
+    -webkit-font-smoothing: antialiased;
+}
+
+.rob-summary > nav > a:visited {
+    color: #364149;
+}
+
+.summary {
+    list-style: none !important;
+    padding: 0;
+    margin: 40px 0 0 0;
+}
+
+.chapter-text {
+    display: block;
+    padding: 10px 15px;
+    border-bottom: none;
+    color: #364149 !important;
+    background: 0 0;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    position: relative;
+    text-decoration: none;
+}
+
+.chapter-text a:visited {
+    color: #364149 !important;
+}
+
+.articles {
+    list-style: none !important;
+}

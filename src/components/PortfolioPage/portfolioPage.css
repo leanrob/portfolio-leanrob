@@ -1,0 +1,13 @@
+.portfolio-page {
+    left: 333px;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.page-inner {
+    position: relative;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px 15px 40px 15px;
+}

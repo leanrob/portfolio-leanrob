@@ -1,5 +1,7 @@
 import React from "react"
 
+import './skillsSection.css'
+
 const SkillsSection = () => {
 	return (
 		<div className="main-content" id="skills">

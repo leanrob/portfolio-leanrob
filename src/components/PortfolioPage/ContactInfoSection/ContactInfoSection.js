@@ -1,5 +1,7 @@
 import React from "react"
 
+import './contactInfoSection.css'
+
 const ContactInfoSection = () => {
 	return (
 		<div className="main-content" id="contactInfo">

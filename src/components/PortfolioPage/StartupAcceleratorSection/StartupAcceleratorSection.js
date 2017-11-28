@@ -1,5 +1,7 @@
 import React from "react"
 
+import './startupAcceleratorSection.css'
+
 const StartupAcceleratorSection = () => {
 	return (
 		<div className="main-content" id="startupAccelerator">

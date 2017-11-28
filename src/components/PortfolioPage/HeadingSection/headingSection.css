@@ -1,0 +1,21 @@
+.heading-section {
+    text-align: center !important;
+    align-content: center;
+    min-height: 600px;
+    background-image: url('../../../assets/images/desk-background.jpeg');
+    vertical-align: middle;
+    position: relative;
+}
+
+.heading-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 30%;
+    width: 50%;
+    margin: -15% 0 0 -25%;
+}
+
+.heading-content h1 {
+    font-size: 6em;
+}

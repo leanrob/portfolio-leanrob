@@ -2,6 +2,8 @@ import React from "react"
 import SyntaxHighlighter from 'react-syntax-highlighter';
 import { docco } from 'react-syntax-highlighter/dist/styles';
 
+import './aboutMeSection.css'
+
 const AboutMeSection = () => {
 
 	const codeString = '(num) => num + 1';
@@ -29,7 +31,7 @@ func main() {
 			<h1>About Me</h1>
 			<h2>Software Developer. I get shit done</h2>
 			<SyntaxHighlighter language='javascript' style={docco}>{codeString}</SyntaxHighlighter>
-			<SyntaxHighlighter language='go' style={docco}>{goCodeString}</SyntaxHighlighter>
+			<SyntaxHighlighter language='go' style={docco} showLineNumbers={true}>{goCodeString}</SyntaxHighlighter>
 			<h1>Rob Byrne</h1>
 			<h2>Software Developer. I get shit done</h2>
 			<h1>Rob Byrne</h1>

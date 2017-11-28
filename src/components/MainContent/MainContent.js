@@ -2,6 +2,8 @@ import React from "react"
 import PortfolioPage from '../PortfolioPage/PortfolioPage'
 import Media from 'react-media'
 
+import './mainContent.css'
+
 const MainContent = () => {
 	const mainContentStyle = {
 		marginLeft: '300px',

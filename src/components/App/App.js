@@ -4,7 +4,7 @@ import FaBars from 'react-icons/lib/fa/bars'
 
 import './App.css';
 
-import SideBarMenu from '../SideBar/SideBarMenu'
+import SideBarMenu from '../SideBar/SideBarMenu/SideBarMenu'
 import MainContent from '../MainContent/MainContent'
 import SocialBarHeader from '../SocialBarHeader/SocialBarHeader'
 import MobileHamburgerMenu from "../SideBar/MobileHamburgerMenu";

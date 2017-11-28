@@ -1,5 +1,7 @@
 import React from "react"
 
+import './hackathonsSection.css'
+
 const HackathonSection = () => {
 	return (
 		<div className="main-content" id="hackathons">
