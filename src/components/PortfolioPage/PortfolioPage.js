@@ -6,6 +6,7 @@ import ContactInfoSection from './ContactInfoSection/ContactInfoSection'
 import SkillsSection from './SkillsSection/SkillsSection'
 import StartupAcceleratorSection from './StartupAcceleratorSection/StartupAcceleratorSection'
 import HackathonSection from './HackathonsSection/HackathonSection'
+import FooterSection from './FooterSection/FooterSection'
 
 import './portfolioPage.css'
 
@@ -19,6 +20,7 @@ const PortfolioPage = () => {
 				<SkillsSection />
 				<StartupAcceleratorSection />
 				<HackathonSection />
+				<FooterSection />
 			</div>
 		</div>
 	)
