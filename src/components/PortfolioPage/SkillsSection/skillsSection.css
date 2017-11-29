@@ -1,3 +1,27 @@
+.skill {
+    -webkit-filter: grayscale(100%);
+    -webkit-transition: .5s ease-in-out;
+    -moz-filter: grayscale(100%);
+    -moz-transition: .5s ease-in-out;
+    -o-filter: grayscale(100%);
+    -o-transition: .5s ease-in-out;
+    filter: grayscale(100%);
+}
+
+.skill:hover {
+    -webkit-filter: grayscale(0%);
+    -webkit-transition: .5s ease-in-out;
+    -moz-filter: grayscale(0%);
+    -moz-transition: .5s ease-in-out;
+    -o-filter: grayscale(0%);
+    -o-transition: .5s ease-in-out;
+    filter: grayscale(0%);
+}
+
+.skill-section-spacer {
+    padding-top: 30px;
+}
+
 .skill-heading {
     padding-top: 10px;
     margin-top: 1.275em;
@@ -50,6 +74,13 @@ span {
 }
 
 .skill-image {
+    max-height: 66px;
+    max-width: 66px;
+    float: left;
+    padding-right: 20px;
+}
+
+.skill-image:hover {
     max-height: 66px;
     max-width: 66px;
     float: left;

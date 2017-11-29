@@ -11,11 +11,14 @@ const MainPoints = ({mainPoints}) => {
 	return points;
 };
 
-const SkillDescription = ({title, description, mainPoints, usedIn}) => {
+const SkillDescription = ({title, description, mainPoints, usedIn, logo, id}) => {
 	return (
-		<div className="skill">
-			<img className="skill-image" src={reactlogo} alt="React" />
-			<h3 className="skill-heading">{title}</h3>
+		<div className="skill" id={id}>
+			<div className="skill-section-spacer" />
+			<div>
+				<img className="skill-image" src={logo} />
+				<h3 className="skill-heading">{title}</h3>
+			</div>
 			<p className="skill-description">{description}</p>
 			<ol>
 				<MainPoints mainPoints={mainPoints}/>
@@ -26,10 +29,12 @@ const SkillDescription = ({title, description, mainPoints, usedIn}) => {
 };
 
 SkillDescription.propTypes = {
+	id: PropTypes.string.isRequired,
 	title: PropTypes.string.isRequired,
 	description: PropTypes.string.isRequired,
 	mainPoints: PropTypes.object,
 	usedIn: PropTypes.string.isRequired,
+	logo: PropTypes.string,
 };
 
 SkillDescription.defaultProps = {
