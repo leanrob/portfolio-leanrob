@@ -6,7 +6,7 @@ import SocialMediaSection from './SocialMediaSection/SocialMediaSection'
 const SocialBarHeader = () => {
 	const style = {
 		socialBarHeader: {
-			background: 'rgba(40,40,40,.3)',
+			background: '#BEBEBE',
 			overflow: 'hidden',
 			padding: '5px 8px',
 			zIndex: '10',
