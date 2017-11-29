@@ -1,12 +1,57 @@
 .skill-heading {
-    font-size: 2.5em;
-    text-align: center;
+    padding-top: 10px;
+    margin-top: 1.275em;
+    margin-bottom: .85em;
+    font-weight: 700;
+    font-size: 1.5em;
+    color: #333;
+    line-height: 1.7;
 }
 
 .skill-description {
-
+    word-wrap: break-word;
+    color: #333;
+    line-height: 1.7;
+    text-rendering: optimizeLegibility;
+    padding-top: 15px;
 }
 
 .skill-usedIn {
+    word-wrap: break-word;
+    color: #333;
+    line-height: 1.7;
+    text-rendering: optimizeLegibility;
+    padding-top: 20px;
+}
 
+.skill ol {
+    color: #ccc;
+    list-style-type: none;
+}
+
+.skill ol li {
+    position: relative;
+    font: bold italic 45px/1.5 Helvetica, Verdana, sans-serif;
+    margin-bottom: 20px;
+}
+
+.skill li p {
+    font: 15px/1.7 Helvetica, sans-serif;
+    padding-left: 60px;
+    /*word-wrap: break-word;*/
+    color: #333;
+    text-rendering: optimizeLegibility;
+    padding-top: 6px;
+}
+
+span {
+    position: absolute;
+    font-size: 0.6em;
+}
+
+.skill-image {
+    max-height: 66px;
+    max-width: 66px;
+    float: left;
+    padding-right: 20px;
 }
