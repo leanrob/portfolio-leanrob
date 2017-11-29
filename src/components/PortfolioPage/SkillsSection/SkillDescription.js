@@ -11,14 +11,19 @@ const MainPoints = ({mainPoints}) => {
 	return points;
 };
 
+const SkillHeadingSection = ({logo, title}) => {
+	return (
+		<div>
+			<img className="skill-image" src={logo} />
+			<h3 className="skill-heading">{title}</h3>
+		</div>
+	)
+}
 const SkillDescription = ({title, description, mainPoints, usedIn, logo, id}) => {
 	return (
 		<div className="skill" id={id}>
 			<div className="skill-section-spacer" />
-			<div>
-				<img className="skill-image" src={logo} />
-				<h3 className="skill-heading">{title}</h3>
-			</div>
+			<SkillHeadingSection logo={logo} title={title}/>
 			<p className="skill-description">{description}</p>
 			<ol>
 				<MainPoints mainPoints={mainPoints}/>

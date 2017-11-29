@@ -40,6 +40,10 @@
     color: #364149 !important;
 }
 
+.chapter-text:hover {
+    color: #67B39B !important;
+}
+
 .articles {
     list-style: none !important;
 }

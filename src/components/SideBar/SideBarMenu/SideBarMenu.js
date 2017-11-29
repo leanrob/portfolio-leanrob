@@ -72,8 +72,19 @@ const SideBarMenu = () => {
 						<a className="chapter-text" href="#aboutMe">Portfolio</a>
 						<ul className="articles" id="articles">
 							<li className="chapter"><a className="chapter-text" href="#contactInfo">Contact Info</a></li>
-							<li className="chapter"><a className="chapter-text" href="#skills">Integrations</a></li>
-							<li className="chapter"><a className="chapter-text" href="#startupAccelerator">Experience</a></li>
+							<li className="chapter">
+								<a className="chapter-text" href="#skills">Integrations</a>
+								<ul className="articles">
+									<li className="chapter"><a className="chapter-text" href="#javascript">Javascript</a></li>
+									<li className="chapter"><a className="chapter-text" href="#react">ReactJS</a></li>
+									<li className="chapter"><a className="chapter-text" href="#golang">Golang</a></li>
+									<li className="chapter"><a className="chapter-text" href="#cqrs">CQRS/ES</a></li>
+									<li className="chapter"><a className="chapter-text" href="#node">NodeJS</a></li>
+									<li className="chapter"><a className="chapter-text" href="#angular">Angular</a></li>
+									<li className="chapter"><a className="chapter-text" href="#others">Others</a></li>
+								</ul>
+							</li>
+							<li className="chapter"><a className="chapter-text" href="#startupAccelerator">Startup Accelerator</a></li>
 							<li className="chapter"><a className="chapter-text" href="#hackathons">Hackathons</a></li>
 						</ul>
 					</li>
