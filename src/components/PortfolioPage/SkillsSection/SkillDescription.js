@@ -1,9 +1,7 @@
 import React from "react"
 import PropTypes from 'prop-types';
 
-import reactlogo from "../../../assets/images/react-redux.jpeg"
-
-const MainPoints = ({mainPoints}) => {
+const MainPoints = ({ mainPoints }) => {
 	let points = [];
 	for (let index = 0; index < mainPoints.length; index++) {
 		points.push(<li><span>{index}.</span><p>{mainPoints[index]}</p></li>)
@@ -11,15 +9,25 @@ const MainPoints = ({mainPoints}) => {
 	return points;
 };
 
-const SkillHeadingSection = ({logo, title}) => {
+const SkillHeadingSection = ({ logo, title }) => {
 	return (
 		<div>
 			<img className="skill-image" src={logo} />
 			<h3 className="skill-heading">{title}</h3>
 		</div>
 	)
+};
+
+const DocsLinkSection = ({title, link}) => {
+	if (!link) {
+		return <div />
+	}
+	return (
+		<p>See the {title} docs <a className="skill-docs" href={link} >here</a></p>
+	)
 }
-const SkillDescription = ({title, description, mainPoints, usedIn, logo, id}) => {
+
+const SkillDescription = ({ title, description, mainPoints, usedIn, logo, id, link }) => {
 	return (
 		<div className="skill" id={id}>
 			<div className="skill-section-spacer" />
@@ -29,6 +37,7 @@ const SkillDescription = ({title, description, mainPoints, usedIn, logo, id}) =>
 				<MainPoints mainPoints={mainPoints}/>
 			</ol>
 			<p className="skill-usedIn">{usedIn}</p>
+			<DocsLinkSection title={title} link={link}/>
 		</div>
 	)
 };
@@ -40,6 +49,7 @@ SkillDescription.propTypes = {
 	mainPoints: PropTypes.object,
 	usedIn: PropTypes.string.isRequired,
 	logo: PropTypes.string,
+	link: PropTypes.string
 };
 
 SkillDescription.defaultProps = {

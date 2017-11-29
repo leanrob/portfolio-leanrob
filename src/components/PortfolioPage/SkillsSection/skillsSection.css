@@ -32,6 +32,20 @@
     line-height: 1.7;
 }
 
+.integrations-header {
+    word-wrap: break-word;
+    color: #333;
+    line-height: 2.0;
+    text-rendering: optimizeLegibility;
+    padding-top: 15px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.skill-docs {
+    text-align: center !important;
+}
+
 .skill-description {
     word-wrap: break-word;
     color: #333;

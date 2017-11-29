@@ -16,12 +16,14 @@ import angularlogo from "../../../assets/images/angular-logo.png"
 const SkillsSection = () => {
 	return (
 		<div className="main-content" id="skills">
+			<h1 className="integrations-header">Integrations</h1>
 			<SkillDescription title={SkillsData.javascript.title}
 			                  description={SkillsData.javascript.description}
 			                  usedIn={SkillsData.javascript.usedIn}
 			                  mainPoints={SkillsData.javascript.mainPoints}
 			                  logo={javascriptlogo}
 			                  id={SkillsData.javascript.id}
+			                  link={SkillsData.javascript.link}
 			/>
 			<SkillDescription title={SkillsData.react.title}
 			                  description={SkillsData.react.description}
@@ -29,6 +31,7 @@ const SkillsSection = () => {
 			                  mainPoints={SkillsData.react.mainPoints}
 			                  logo={reactlogo}
 			                  id={SkillsData.react.id}
+			                  link={SkillsData.react.link}
 			/>
 			<SkillDescription title={SkillsData.golang.title}
 			                  description={SkillsData.golang.description}
@@ -36,6 +39,7 @@ const SkillsSection = () => {
 			                  mainPoints={SkillsData.golang.mainPoints}
 			                  logo={golanglogo}
 			                  id={SkillsData.golang.id}
+			                  link={SkillsData.golang.link}
 			/>
 			<SkillDescription title={SkillsData.cqrs.title}
 			                  description={SkillsData.cqrs.description}
@@ -43,6 +47,7 @@ const SkillsSection = () => {
 			                  mainPoints={SkillsData.cqrs.mainPoints}
 			                  logo={eventstorelogo}
 			                  id={SkillsData.cqrs.id}
+			                  link={SkillsData.cqrs.link}
 			/>
 			<SkillDescription title={SkillsData.node.title}
 			                  description={SkillsData.node.description}
@@ -50,6 +55,7 @@ const SkillsSection = () => {
 			                  mainPoints={SkillsData.node.mainPoints}
 			                  logo={nodelogo}
 			                  id={SkillsData.node.id}
+			                  link={SkillsData.node.link}
 			/>
 			<SkillDescription title={SkillsData.angular.title}
 			                  description={SkillsData.angular.description}
@@ -57,6 +63,7 @@ const SkillsSection = () => {
 			                  mainPoints={SkillsData.angular.mainPoints}
 			                  logo={angularlogo}
 			                  id={SkillsData.angular.id}
+			                  link={SkillsData.angular.link}
 			/>
 			<SkillDescription title={SkillsData.others.title}
 			                  description={SkillsData.others.description}
