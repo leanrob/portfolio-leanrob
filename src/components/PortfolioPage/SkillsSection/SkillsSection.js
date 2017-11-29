@@ -1,25 +1,13 @@
 import React from "react"
 
+import SkillDescription from "./SkillDescription"
+
 import './skillsSection.css'
 
 const SkillsSection = () => {
 	return (
 		<div className="main-content" id="skills">
-			<h1>Skills</h1>
-			<h2>Software Developer. I get shit done</h2>
-			<h1>Rob Byrne</h1>
-			<h2>Software Developer. I get shit done</h2>
-			<h1>Rob Byrne</h1>
-			<h2>Software Developer. I get shit done</h2>
-			<h1>Rob Byrne</h1>
-			<h2>Software Developer. I get shit done</h2>
-			<h1>Rob Byrne</h1>
-			<h2>Software Developer. I get shit done</h2>
-			<h1>Rob Byrne</h1>
-			<h2>Software Developer. I get shit done</h2>
-			<h1>Rob Byrne</h1>
-			<h2>Software Developer. I get shit done</h2>
-			<h1>Section End</h1>
+			<SkillDescription title={"Javascript"} description={"Javascript is awesome."} usedIn={"POS systems"}/>
 		</div>
 	)
 };

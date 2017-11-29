@@ -1,8 +1,19 @@
-.portfolio-page {
-    left: 333px;
-    position: absolute;
-    right: 0;
-    top: 0;
+@media only screen and (max-width: 768px) {
+    .portfolio-page {
+        left: 0;
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .portfolio-page {
+        left: 333px;
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
 }
 
 .page-inner {

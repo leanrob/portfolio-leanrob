@@ -29,6 +29,7 @@
 
 nav {
   background-color: #5C586A;
+  z-index: 3;
   overflow: hidden;
   padding: 1em;
   border-bottom: 1px solid #A8DFD9;

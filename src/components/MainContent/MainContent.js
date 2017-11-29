@@ -7,14 +7,12 @@ import './mainContent.css'
 const MainContent = () => {
 	const mainContentStyle = {
 		marginLeft: '300px',
-		background: '#fcfcfc',
 		minHeight: '100%',
 		display: 'block',
 		boxSizing: 'border-box',
 		marginTop: '50px'
 	};
 	const mobileMainContentStyle = {
-		background: '#fcfcfc',
 		minHeight: '100%',
 		display: 'block',
 		boxSizing: 'border-box',

@@ -1,14 +1,8 @@
 .main-content {
-    background: #fcfcfc;
     text-align: left;
-    /*min-height: 100%;*/
-    /*display: block;*/
-    /*box-sizing: border-box;*/
-    /*flex: 2;*/
 }
 
 .main-content-mobile {
-    background: #fcfcfc;
     min-height: 100%;
     display: block;
     box-sizing: border-box;
