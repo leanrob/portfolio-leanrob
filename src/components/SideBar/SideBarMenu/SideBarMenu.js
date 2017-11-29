@@ -1,6 +1,6 @@
 import React from "react"
 
-import logo from '../../App/logo.svg';
+import robImage from "../../../assets/images/RobByrne.png"
 
 import "./firstLevelMenuItem.css"
 
@@ -67,6 +67,10 @@ const SideBarMenu = () => {
 	return (
 		<div className="rob-summary" id="rob-summary">
 			<nav role="navigation">
+				<img className="menu-image" align="center" src={robImage} />
+				<h1 className="menu-main-heading">Rob Byrne</h1>
+				<h4 className="menu-secondary-heading">Software Developer | Entrepreneur</h4>
+				<hr className="menu-line-break" />
 				<ul className="summary" id="summary">
 					<li className="chapter">
 						<a className="chapter-text" href="#aboutMe">Portfolio</a>

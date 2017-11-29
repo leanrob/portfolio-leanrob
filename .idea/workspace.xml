@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29159f41-f86c-4baf-b459-d8a9368b79f0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/PortfolioPage/PortfolioPage.js" afterPath="$PROJECT_DIR$/src/components/PortfolioPage/PortfolioPage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/SideBar/SideBarMenu/SideBarMenu.js" afterPath="$PROJECT_DIR$/src/components/SideBar/SideBarMenu/SideBarMenu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/SideBar/SideBarMenu/firstLevelMenuItem.css" afterPath="$PROJECT_DIR$/src/components/SideBar/SideBarMenu/firstLevelMenuItem.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -67,11 +69,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="firstLevelMenuItem.css" pinned="false" current-in-tab="false">
+          <file leaf-file-name="firstLevelMenuItem.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/components/SideBar/SideBarMenu/firstLevelMenuItem.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="191">
-                  <caret line="43" column="18" lean-forward="false" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+                <state relative-caret-position="117">
+                  <caret line="50" column="1" lean-forward="true" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
                   <folding />
                 </state>
               </provider>
@@ -109,7 +111,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="SkillsSection.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="SkillsSection.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/components/PortfolioPage/SkillsSection/SkillsSection.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="1067">
@@ -136,14 +138,12 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="SideBarMenu.js" pinned="false" current-in-tab="false">
+          <file leaf-file-name="SideBarMenu.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/components/SideBar/SideBarMenu/SideBarMenu.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="710">
-                  <caret line="77" column="107" lean-forward="true" selection-start-line="77" selection-start-column="107" selection-end-line="77" selection-end-column="107" />
-                  <folding>
-                    <element signature="e#0#25#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="46">
+                  <caret line="2" column="53" lean-forward="false" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -202,7 +202,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="footerSection.css" pinned="false" current-in-tab="true">
+          <file leaf-file-name="footerSection.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/components/PortfolioPage/FooterSection/footerSection.css">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="115">
@@ -306,8 +306,6 @@
         <option value="$PROJECT_DIR$/src/assets/images/filters.svg" />
         <option value="$PROJECT_DIR$/src/components/PortfolioPage/portfolioPage.css" />
         <option value="$PROJECT_DIR$/src/components/MainContent/mainContent.css" />
-        <option value="$PROJECT_DIR$/src/components/SideBar/SideBarMenu/firstLevelMenuItem.css" />
-        <option value="$PROJECT_DIR$/src/components/SideBar/SideBarMenu/SideBarMenu.js" />
         <option value="$PROJECT_DIR$/src/components/PortfolioPage/SkillsSection/skillsSection.css" />
         <option value="$PROJECT_DIR$/src/components/PortfolioPage/SkillsSection/Data-SkillsSection.json" />
         <option value="$PROJECT_DIR$/src/components/PortfolioPage/SkillsSection/SkillDescription.js" />
@@ -316,6 +314,8 @@
         <option value="$PROJECT_DIR$/src/components/PortfolioPage/PortfolioPage.js" />
         <option value="$PROJECT_DIR$/src/components/PortfolioPage/FooterSection/FooterSection.js" />
         <option value="$PROJECT_DIR$/src/components/PortfolioPage/FooterSection/footerSection.css" />
+        <option value="$PROJECT_DIR$/src/components/SideBar/SideBarMenu/firstLevelMenuItem.css" />
+        <option value="$PROJECT_DIR$/src/components/SideBar/SideBarMenu/SideBarMenu.js" />
       </list>
     </option>
   </component>
@@ -502,12 +502,12 @@
       <workItem from="1510027464369" duration="3007000" />
       <workItem from="1511847180937" duration="400000" />
       <workItem from="1511847676525" duration="10152000" />
-      <workItem from="1511933882058" duration="9259000" />
+      <workItem from="1511933882058" duration="10717000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49706000" />
+    <option name="totallyTimeSpent" value="51164000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -596,9 +596,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="644">
           <caret line="30" column="36" lean-forward="true" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -860,14 +858,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/SideBar/SideBarMenu/firstLevelMenuItem.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="43" column="18" lean-forward="false" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/PortfolioPage/SkillsSection/skillsSection.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
@@ -894,32 +884,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/SideBar/SideBarMenu/SideBarMenu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="710">
-          <caret line="77" column="107" lean-forward="true" selection-start-line="77" selection-start-column="107" selection-end-line="77" selection-end-column="107" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="21" column="58" lean-forward="false" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/PortfolioPage/SkillsSection/SkillsSection.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1067">
-          <caret line="65" column="60" lean-forward="true" selection-start-line="65" selection-start-column="60" selection-end-line="65" selection-end-column="60" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-            <element signature="e#168#231#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -947,6 +916,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/PortfolioPage/SkillsSection/SkillsSection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1067">
+          <caret line="65" column="60" lean-forward="true" selection-start-line="65" selection-start-column="60" selection-end-line="65" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+            <element signature="e#168#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/SideBar/SideBarMenu/firstLevelMenuItem.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="50" column="1" lean-forward="true" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/SideBar/SideBarMenu/SideBarMenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="53" lean-forward="false" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
           <folding />
         </state>
       </provider>
