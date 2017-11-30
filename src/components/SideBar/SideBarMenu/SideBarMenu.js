@@ -28,46 +28,10 @@ import "./firstLevelMenuItem.css"
 
 
 const SideBarMenu = () => {
-	const style = {
-		sideBarMenuStyle: {
-			width: '300px',
-			paddingBottom: '2em',
-			position: 'fixed',
-			top: 0,
-			bottom: 0,
-			left: 0,
-			overflowX: 'hidden',
-			overflowY: 'auto',
-			background: '#A8DFD9',
-			zIndex: 200,
-			display: 'block',
-			verticalAlign: 'middle',
-		},
-		sidebarMenuHeader: {
-			height: '80px',
-			background: '#5C586A',
-			icon: {
-				float: 'left',
-				width: '33%',
-				paddingBottom: '20px'
-			},
-			headerText: {
-				float: 'right',
-				width: '66%',
-				color: '#000000',
-			}
-		},
-		sideBarFooter: {
-			position: 'fixed',
-			bottom: '0px',
-			background: '#5C586A',
-			width: '300px',
-		}
-	};
 	return (
 		<div className="rob-summary" id="rob-summary">
-			<nav role="navigation">
-				<img className="menu-image" align="center" src={robImage} />
+			<nav>
+				<img className="menu-image" alt="" align="center" src={robImage} />
 				<h1 className="menu-main-heading">Rob Byrne</h1>
 				<h4 className="menu-secondary-heading">Software Developer | Entrepreneur</h4>
 				<hr className="menu-line-break" />

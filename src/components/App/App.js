@@ -7,7 +7,6 @@ import './App.css';
 import SideBarMenu from '../SideBar/SideBarMenu/SideBarMenu'
 import MainContent from '../MainContent/MainContent'
 import SocialBarHeader from '../SocialBarHeader/SocialBarHeader'
-import MobileHamburgerMenu from "../SideBar/MobileHamburgerMenu";
 
 class App extends Component {
 

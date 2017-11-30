@@ -28,20 +28,20 @@
 }
 
 nav {
-  background-color: #5C586A;
+  background-color: #FAFAFA;
   z-index: 3;
   overflow: hidden;
   padding: 1em;
-  border-bottom: 1px solid #A8DFD9;
+  border-bottom: 1px solid #E8E8E8;
   position: fixed;
   top: 0;
   width: 100%;
 }
 nav a {
-  color: #fff;
+  color: #53575C;
 }
 nav a:visited {
-  color: #fff;
+  color: #53575C;
 }
 nav .navWide {
   display: none;
@@ -58,7 +58,7 @@ nav .navWide .wideDiv a {
 nav .navNarrow i {
   float: left;
   cursor: pointer;
-  color: #fff;
+  color: #53575C;
 }
 nav .navNarrow .narrowLinks {
   display: none;
@@ -68,7 +68,7 @@ nav .navNarrow .narrowLinks a {
   display: block;
   float: left;
   clear: left;
-  padding: 0.5em 0;
+  padding: 0.5em 3px;
 }
 @media (min-width: 768px) {
   nav .navWide {

@@ -12,7 +12,7 @@ const MainPoints = ({ mainPoints }) => {
 const SkillHeadingSection = ({ logo, title }) => {
 	return (
 		<div>
-			<img className="skill-image" src={logo} />
+			<img className="skill-image" src={logo} alt="" />
 			<h3 className="skill-heading">{title}</h3>
 		</div>
 	)

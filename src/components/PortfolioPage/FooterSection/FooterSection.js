@@ -1,7 +1,6 @@
 import React from "react"
-import PropTypes from 'prop-types'
 
-const FooterSection = ({}) => {
+const FooterSection = () => {
 	return (
 		<div className="footer-container">
 			<span className="footer-info">Some Stuff</span>

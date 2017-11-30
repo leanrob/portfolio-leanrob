@@ -1,5 +1,4 @@
 import React from "react"
-import FaBeer from 'react-icons/lib/fa/beer'
 import FaGithub from 'react-icons/lib/fa/github'
 import FaTwitter from 'react-icons/lib/fa/twitter'
 import FaLinkedin from 'react-icons/lib/fa/linkedin'
