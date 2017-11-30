@@ -4,6 +4,8 @@
         position: absolute;
         right: 0;
         top: 0;
+        text-rendering: optimizeLegibility;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif
     }
 }
 
@@ -13,6 +15,8 @@
         position: absolute;
         right: 0;
         top: 20px;
+        text-rendering: optimizeLegibility;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif
     }
 }
 
@@ -21,4 +25,6 @@
     max-width: 800px;
     margin: 0 auto;
     padding: 20px 15px 40px 15px;
+    text-rendering: optimizeLegibility;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif
 }

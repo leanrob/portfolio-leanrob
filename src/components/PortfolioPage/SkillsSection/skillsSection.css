@@ -8,6 +8,10 @@
     filter: grayscale(100%);
 }
 
+.skill p {
+    font-size: 1.1rem;
+}
+
 .skill:hover {
     -webkit-filter: grayscale(0%);
     -webkit-transition: .5s ease-in-out;
@@ -20,16 +24,6 @@
 
 .skill-section-spacer {
     padding-top: 30px;
-}
-
-.skill-heading {
-    padding-top: 10px;
-    margin-top: 1.275em;
-    margin-bottom: .85em;
-    font-weight: 700;
-    font-size: 1.5em;
-    color: #333;
-    line-height: 1.7;
 }
 
 .integrations-header {
@@ -71,10 +65,11 @@
     position: relative;
     font: bold italic 45px/1.5 Helvetica, Verdana, sans-serif;
     margin-bottom: 20px;
+
 }
 
 .skill li p {
-    font: 15px/1.7 Helvetica, sans-serif;
+    font: 1.08rem/1.7 Helvetica, sans-serif;
     padding-left: 60px;
     /*word-wrap: break-word;*/
     color: #333;
@@ -99,4 +94,14 @@ span {
     max-width: 66px;
     float: left;
     padding-right: 20px;
+}
+
+.skill-heading {
+    padding-top: 10px;
+    margin-top: 1.275em;
+    margin-bottom: .85em;
+    font-weight: 700;
+    font-size: 1.5em;
+    color: #333;
+    line-height: 1.7;
 }

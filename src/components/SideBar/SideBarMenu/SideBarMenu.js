@@ -94,43 +94,6 @@ const SideBarMenu = () => {
 					</li>
 				</ul>
 			</nav>
-		{/*<div className="sidebar-menu" style={style.sideBarMenuStyle}>*/}
-			{/*<div className="sidebar-menu-header" style={style.sidebarMenuHeader}>*/}
-				{/*<div style={style.sidebarMenuHeader.icon}>*/}
-					{/*<img src={logo}*/}
-					     {/*className="App-logo"*/}
-					     {/*alt="logo"*/}
-					{/*/>*/}
-				{/*</div>*/}
-				{/*<div style={style.sidebarMenuHeader.headerText}>*/}
-					{/*<h1>LEANROB</h1>*/}
-				{/*</div>*/}
-			{/*</div>*/}
-			{/*<br />*/}
-			{/*<div className="sidebar-menu-content">*/}
-				{/*<p>*/}
-					{/*<a href="#aboutMe">About Rob</a>*/}
-				{/*</p>*/}
-				{/*<p>*/}
-					{/*<a href="#contactInfo">Contact Information</a>*/}
-				{/*</p>*/}
-				{/*<p>*/}
-					{/*<a href="#skills">Skill Sets</a>*/}
-				{/*</p>*/}
-				{/*<p>*/}
-					{/*<a href="#startupAccelerator">Startup Accelerator</a>*/}
-				{/*</p>*/}
-				{/*<p>*/}
-					{/*<a href="#hackathons">Hack-A-Thons</a>*/}
-				{/*</p>*/}
-				{/*<p>*/}
-					{/*<a>Get In Touch</a>*/}
-				{/*</p>*/}
-			{/*</div>*/}
-			{/*<div className="sidebar-menu-footer" style={style.sideBarFooter}>*/}
-				{/*<p>@leanrob</p>*/}
-			{/*</div>*/}
-		{/*</div>*/}
 		</div>
 	)
 };
