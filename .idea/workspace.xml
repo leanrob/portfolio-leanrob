@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29159f41-f86c-4baf-b459-d8a9368b79f0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/App/App.css" afterPath="$PROJECT_DIR$/src/components/App/App.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/App/App.js" afterPath="$PROJECT_DIR$/src/components/App/App.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/PortfolioPage/AboutMeSection/AboutMeSection.js" afterPath="$PROJECT_DIR$/src/components/PortfolioPage/AboutMeSection/AboutMeSection.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/PortfolioPage/FooterSection/FooterSection.js" afterPath="$PROJECT_DIR$/src/components/PortfolioPage/FooterSection/FooterSection.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/PortfolioPage/SkillsSection/SkillDescription.js" afterPath="$PROJECT_DIR$/src/components/PortfolioPage/SkillsSection/SkillDescription.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/SideBar/SideBarMenu/SideBarMenu.js" afterPath="$PROJECT_DIR$/src/components/SideBar/SideBarMenu/SideBarMenu.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/SocialBarHeader/SocialMediaSection/SocialMediaButton.js" afterPath="$PROJECT_DIR$/src/components/SocialBarHeader/SocialMediaSection/SocialMediaButton.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/SocialBarHeader/SocialMediaSection/SocialMediaSection.js" afterPath="$PROJECT_DIR$/src/components/SocialBarHeader/SocialMediaSection/SocialMediaSection.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/PortfolioPage/HackathonsSection/HackathonSection.js" afterPath="$PROJECT_DIR$/src/components/PortfolioPage/HackathonsSection/HackathonSection.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/PortfolioPage/StartupAcceleratorSection/StartupAcceleratorSection.js" afterPath="$PROJECT_DIR$/src/components/PortfolioPage/StartupAcceleratorSection/StartupAcceleratorSection.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -44,12 +38,24 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="SocialMediaButton.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="SocialMediaButton.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/components/SocialBarHeader/SocialMediaSection/SocialMediaButton.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="368">
                   <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
                   <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="HackathonSection.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/components/PortfolioPage/HackathonsSection/HackathonSection.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="184">
+                  <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="33" />
+                  <folding>
+                    <element signature="e#0#25#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -118,19 +124,6 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="SkillsSection.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/components/PortfolioPage/SkillsSection/SkillsSection.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="198">
-                  <caret line="18" column="42" lean-forward="false" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
-                  <folding>
-                    <element signature="e#0#25#0" expanded="true" />
-                    <element signature="e#168#231#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="App.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/components/App/App.css">
               <provider selected="true" editor-type-id="text-editor">
@@ -155,7 +148,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="AboutMeSection.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="AboutMeSection.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/components/PortfolioPage/AboutMeSection/AboutMeSection.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="0">
@@ -190,6 +183,18 @@
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="317">
                   <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+                  <folding>
+                    <element signature="e#0#25#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="StartupAcceleratorSection.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/components/PortfolioPage/StartupAcceleratorSection/StartupAcceleratorSection.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="184">
+                  <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
                   <folding>
                     <element signature="e#0#25#0" expanded="true" />
                   </folding>
@@ -268,9 +273,7 @@
         <option value="$PROJECT_DIR$/src/components/SideBar/sideBarMenu.css" />
         <option value="$PROJECT_DIR$/src/components/SideBar/SideBarMenu.js" />
         <option value="$PROJECT_DIR$/src/components/PortfolioPage/HackathonsSection/hackathonsSection.css" />
-        <option value="$PROJECT_DIR$/src/components/PortfolioPage/HackathonsSection/HackathonSection.js" />
         <option value="$PROJECT_DIR$/src/components/PortfolioPage/StartupAcceleratorSection/startupAcceleratorSection.css" />
-        <option value="$PROJECT_DIR$/src/components/PortfolioPage/StartupAcceleratorSection/StartupAcceleratorSection.js" />
         <option value="$PROJECT_DIR$/src/components/SideBar/SideBarMenu/FirstLevelMenuItem.js" />
         <option value="$PROJECT_DIR$/src/components/MainContent/MainContent.js" />
         <option value="$PROJECT_DIR$/src/components/SocialBarHeader/SocialBarHeader.js" />
@@ -297,6 +300,8 @@
         <option value="$PROJECT_DIR$/src/components/PortfolioPage/AboutMeSection/AboutMeSection.js" />
         <option value="$PROJECT_DIR$/src/components/SideBar/SideBarMenu/SideBarMenu.js" />
         <option value="$PROJECT_DIR$/src/components/SocialBarHeader/SocialMediaSection/SocialMediaButton.js" />
+        <option value="$PROJECT_DIR$/src/components/PortfolioPage/HackathonsSection/HackathonSection.js" />
+        <option value="$PROJECT_DIR$/src/components/PortfolioPage/StartupAcceleratorSection/StartupAcceleratorSection.js" />
       </list>
     </option>
   </component>
@@ -416,6 +421,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="PortfolioPage" type="462c0819:PsiDirectoryNode" />
+              <item name="HackathonsSection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio-leanrob" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio-leanrob" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="PortfolioPage" type="462c0819:PsiDirectoryNode" />
               <item name="HeadingSection" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -425,6 +438,14 @@
               <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="PortfolioPage" type="462c0819:PsiDirectoryNode" />
               <item name="SkillsSection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio-leanrob" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio-leanrob" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="PortfolioPage" type="462c0819:PsiDirectoryNode" />
+              <item name="StartupAcceleratorSection" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="portfolio-leanrob" type="b2602c69:ProjectViewProjectNode" />
@@ -501,12 +522,12 @@
       <workItem from="1510027464369" duration="3007000" />
       <workItem from="1511847180937" duration="400000" />
       <workItem from="1511847676525" duration="10152000" />
-      <workItem from="1511933882058" duration="17376000" />
+      <workItem from="1511933882058" duration="17638000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57823000" />
+    <option name="totallyTimeSpent" value="58085000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-126" y="-1080" width="1920" height="1080" extended-state="0" />
@@ -656,26 +677,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/PortfolioPage/HackathonsSection/HackathonSection.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/PortfolioPage/StartupAcceleratorSection/startupAcceleratorSection.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/PortfolioPage/StartupAcceleratorSection/StartupAcceleratorSection.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="39" lean-forward="false" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
           <folding />
         </state>
       </provider>
@@ -908,28 +913,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/PortfolioPage/PortfolioPage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/PortfolioPage/FooterSection/FooterSection.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/PortfolioPage/AboutMeSection/AboutMeSection.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -949,6 +936,44 @@
         <state relative-caret-position="368">
           <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/PortfolioPage/HackathonsSection/HackathonSection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/PortfolioPage/AboutMeSection/AboutMeSection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/PortfolioPage/PortfolioPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/PortfolioPage/StartupAcceleratorSection/StartupAcceleratorSection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
