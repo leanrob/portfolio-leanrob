@@ -1,0 +1,18 @@
+.aboutMe-content {
+    word-wrap: break-word;
+    color: #333;
+    line-height: 1.7;
+    text-rendering: optimizeLegibility;
+    padding-top: 15px;
+    font-size: 1.1rem;
+}
+
+.about-me-header {
+    word-wrap: break-word;
+    color: #333;
+    line-height: 2.0;
+    text-rendering: optimizeLegibility;
+    padding-top: 15px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}

@@ -73,8 +73,9 @@ const SideBarMenu = () => {
 				<hr className="menu-line-break" />
 				<ul className="summary" id="summary">
 					<li className="chapter">
-						<a className="chapter-text" href="#aboutMe">Portfolio</a>
+						<a className="chapter-text" href="#heading">Portfolio</a>
 						<ul className="articles" id="articles">
+							<li className="chapter"><a className="chapter-text" href="#aboutMe">About Me</a></li>
 							<li className="chapter"><a className="chapter-text" href="#contactInfo">Contact Info</a></li>
 							<li className="chapter">
 								<a className="chapter-text" href="#skills">Integrations</a>
@@ -93,6 +94,8 @@ const SideBarMenu = () => {
 						</ul>
 					</li>
 				</ul>
+				<br />
+				<br />
 			</nav>
 		</div>
 	)
